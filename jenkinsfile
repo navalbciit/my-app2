@@ -25,7 +25,7 @@
         }
         stage('Deploy') {
             steps {
-                sh "mvn package -f my-app21"
+                sh "mvn package -f my-app2"
             }
            
         }
